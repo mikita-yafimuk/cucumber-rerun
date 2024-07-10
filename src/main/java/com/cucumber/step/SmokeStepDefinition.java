@@ -15,6 +15,6 @@ public class SmokeStepDefinition {
 
     @Then("I verify that it's even")
     public void iVerifyThatItSEven() {
-        Assert.assertTrue(value % 2 != 0);
+        Assert.assertEquals(value % 2, 0);
     }
 }
