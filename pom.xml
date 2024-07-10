@@ -17,16 +17,16 @@
     </properties>
 
     <dependencies>
-<!--        <dependency>-->
-<!--            <groupId>io.cucumber</groupId>-->
-<!--            <artifactId>cucumber-gherkin</artifactId>-->
-<!--            <version>${io.cucumber}</version>-->
-<!--        </dependency>-->
         <dependency>
             <groupId>com.epam.reportportal</groupId>
             <artifactId>agent-java-cucumber6</artifactId>
             <version>${com.epam.reportportal.agent-java-cucumber6}</version>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.cucumber</groupId>-->
+<!--            <artifactId>cucumber-gherkin</artifactId>-->
+<!--            <version>${io.cucumber}</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
