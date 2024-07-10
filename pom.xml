@@ -20,7 +20,7 @@
 <!--        <dependency>-->
 <!--            <groupId>io.cucumber</groupId>-->
 <!--            <artifactId>cucumber-gherkin</artifactId>-->
-<!--            <version>7.18.0</version>-->
+<!--            <version>${io.cucumber}</version>-->
 <!--        </dependency>-->
         <dependency>
             <groupId>com.epam.reportportal</groupId>
